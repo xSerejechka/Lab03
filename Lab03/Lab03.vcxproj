@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <ClCompile Include="histogram.cpp" />
     <ClCompile Include="Lab03.cpp" />
     <ClCompile Include="svg.cpp" />
@@ -147,6 +148,12 @@
     <ClInclude Include="histogram.h" />
     <ClInclude Include="Lab03.h" />
     <ClInclude Include="svg.h" />
+=======
+    <ClCompile Include="Lab03.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Lab03.h" />
+>>>>>>> 2a5efa27ef436af2ef1832c400fc750cfbcb2a9c
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

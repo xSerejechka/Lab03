@@ -18,22 +18,28 @@
     <ClCompile Include="Lab03.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="svg.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
     <ClCompile Include="histogram.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+=======
+>>>>>>> 2a5efa27ef436af2ef1832c400fc750cfbcb2a9c
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Lab03.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
+<<<<<<< HEAD
     <ClInclude Include="svg.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="histogram.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
+=======
+>>>>>>> 2a5efa27ef436af2ef1832c400fc750cfbcb2a9c
   </ItemGroup>
 </Project>

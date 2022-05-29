@@ -91,7 +91,7 @@ int main()
 	const auto bins = make_histogram(numbers, bin_count);
 
 	//Вывод данных
-	show_histogram_svg(bins);
+	show_histogram_svg(bins, colours);
 
 	return 0;
 }
